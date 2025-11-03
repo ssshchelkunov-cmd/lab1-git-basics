@@ -1,0 +1,7 @@
+{
+    "name": "Flutter Development",
+    "image": "mcr.microsoft.com/vscode/devcontainers/dart:latest",
+    "features": {
+        "ghcr.io/devcontainers/features/flutter:1": {}
+    }
+}
